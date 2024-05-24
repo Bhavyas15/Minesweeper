@@ -13,7 +13,7 @@
     display: grid;
     grid-template-rows:repeat(20,30px);
     grid-template-columns: repeat(16,30px);
-    border: 1px solid black;
+/*     border: 1px solid black; */
     width: 80%;
     margin-left: 5rem;
 }
@@ -118,7 +118,7 @@
     margin-bottom: 50px;
 }
 .head{
-    font-size: 80px;
+    font-size: 4.4rem;
     font-weight: bold;
     margin-bottom: 50px;
     height: 300px;
