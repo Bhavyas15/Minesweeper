@@ -7,7 +7,7 @@ let nomovebool = false;
 let shovelselected = true;
 let flagsplaced = 0;
 let firstmove = true;
-const mines = 70;
+const mines = 50;
 
 function newgame() {
   helpgrid();
